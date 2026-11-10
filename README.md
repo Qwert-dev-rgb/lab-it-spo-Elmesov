@@ -5,5 +5,5 @@
 ## инструмент
 -githab
 -vvs code
--replit
+-Replit
 
